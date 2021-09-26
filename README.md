@@ -1,5 +1,5 @@
 # imooc-SpringCloudAlibaba
-# 508-Spring Cloud Alibaba 大型互联网领域多场景最佳实践
+# 508-Spring Cloud Alibaba 大型互联网领域多场景最佳实践 百度网盘 下载 download  慕课网 视频下载
 
 资源截图
 
